@@ -1,0 +1,29 @@
+{
+  "name": "botwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "npm:baileys-md@5.0.5",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@hapi/boom": "^10.0.1",
+    "awesome-phonenumber": "^2.64.0",
+    "chalk": "^4.1.2",
+    "express": "^4.18.2",
+    "pino": "^7.0.5",
+    "qrcode-terminal": "^0.12.0",
+    "rimraf": "^5.0.5",
+    "socket.io": "^4.7.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}

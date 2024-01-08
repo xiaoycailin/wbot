@@ -1,0 +1,18 @@
+[
+  {
+    "cmd": "gajah",
+    "reply": "Ini Gajah"
+  },
+  {
+    "cmd": "hello",
+    "reply": "Hello World"
+  },
+  {
+    "cmd": "kucing",
+    "reply": "Ini Kucing Saya"
+  },
+  {
+    "cmd": "linkgc",
+    "reply": "https://chat.whatsapp.com/FabH9nY6RW9Lib38XWPRZI"
+  }
+]
